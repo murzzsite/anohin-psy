@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /anohin-psy/blog/preview/
+
+Sitemap: https://murzzsite.github.io/anohin-psy/sitemap.xml

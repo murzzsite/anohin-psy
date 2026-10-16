@@ -1,0 +1,38 @@
+{
+  "siteName": "Психолог Анохин",
+  "siteUrl": "https://murzzsite.github.io/anohin-psy",
+  "lang": "ru",
+  "repo": "murzzsite/anohin-psy",
+  "ref": "HSMVJEQGZE",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи психолога Анохина о тревоге, выгорании, отношениях, кризисах и о том, как понять, что пора обратиться за помощью",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Психолог Анохин",
+    "jobTitle": "Психолог",
+    "type": "Person"
+  },
+  "ctaTitle": "Хотите разобраться, что с вами происходит?",
+  "ctaText": "Запишитесь на онлайн-консультацию: разберём вашу ситуацию и честно скажем, что можно сделать дальше. Один час, 4 000 ₽, без обязательств продолжать.",
+  "ctaButton": "Записаться на консультацию",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер, не является медицинской услугой и не заменяет консультацию врача или психотерапевта. Результат работы индивидуален и не гарантируется.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "65a657799d292ddd650b5e152c1fb107",
+  "previewSecret": "f2fd7c77a516ae1d",
+  "theme": {
+    "accent": "var(--accent)",
+    "accent-soft": "var(--accent-soft)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--border)"
+  }
+}
