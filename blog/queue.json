@@ -1,16 +1,14 @@
 {
   "site": "https://murzzsite.github.io/anohin-psy",
   "updated": "2026-10-20",
-  "awaiting": [
+  "awaiting": [],
+  "scheduled": [],
+  "published": [
     {
       "slug": "kak-ponyat-chto-pora-k-psihologu",
-      "path": "articles/kak-ponyat-chto-pora-k-psihologu.md",
       "title": "Как понять, что пора к психологу: признаки, сомнения и первый шаг",
-      "description": "Как понять, что пора идти к психологу: признаки, когда стоит обратиться, чем консультация отличается от разговора с другом и как проверить пользу без больших трат.",
-      "reading_time": "6 мин чтения",
-      "preview_url": "https://murzzsite.github.io/anohin-psy/blog/preview/6df27ef45c0b/kak-ponyat-chto-pora-k-psihologu/"
+      "url": "https://murzzsite.github.io/anohin-psy/blog/kak-ponyat-chto-pora-k-psihologu/",
+      "date": "2026-10-20"
     }
-  ],
-  "scheduled": [],
-  "published": []
+  ]
 }
